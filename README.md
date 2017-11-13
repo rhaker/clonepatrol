@@ -2,7 +2,7 @@
 Clone Patrol enhances web privacy through digital identity obfuscation. You choose a clone and then it auto-browses in the background.
 
 ## Clone Patrol Demo
-![alt text](https://github.com/rhaker/clonepatrol/img/ed.gif "Website Demo")
+![alt text](https://github.com/rhaker/clonepatrol/blob/master/img/ed.gif "Website Demo")
 
 ## Background
 Once you choose a clone, Clone Patrol launches and runs the clone in a dedicated browser tab. Each clone navigates through a curated list of websites specific to that unique profile. When advertisers and other tracking websites target you, this clone identity becomes mixed with your real identity.
